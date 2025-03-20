@@ -84,6 +84,7 @@ while(True):
         break
     elif(choice_1) == "exit": #option to exit
         exit()
+        
     else:
         print("Invalid input.")
 
@@ -109,6 +110,7 @@ while(True):
         break
     elif(choice_2) == "exit": #option to exit
         exit()
+        
     else:
         print("Invalid input.")
 
@@ -128,6 +130,7 @@ while(True):
             alignment -= 1
             print("Recognizing the futility of resistance in the face of overwhelming force, you choose to calm down and try to pursue a diplomatic solution. \nYou tell yourself that King will be more reasonable once you speak with him in person.\n With a steady resolve, you allow yourself to be escorted to the dungeons, where you plan to peacefully await the opportunity to clear up the misconceptions surrounding their arrest ")#placeholder
             break
+            
         elif(choice_3) == "exit": #option to exit
             exit()
         else:
@@ -148,6 +151,7 @@ while(True):
             break
         elif(choice_3) == "exit": #option to exit
             exit()
+            
         else:
             print("Invalid input.")
 
@@ -164,6 +168,7 @@ while(True):
         elif(choice_4 == '2'):
             alignment -= 1
             break
+            
         elif(choice_4) == "exit": #option to exit
             exit()
         else:
@@ -182,6 +187,7 @@ while(True):
             break
         elif(story_4_version_2_choice) == "exit": #option to exit
             exit()
+            
         else:
             print("Invalid input.")
 
